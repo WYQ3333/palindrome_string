@@ -46,7 +46,7 @@ int isPalindrome(char* s) {
 
 int main()
 {
-	char *str = "race a car";
+	char *str = "Nella's simple hymn: \"I attain my helpMiss Allen.\"";
 	int ret = isPalindrome(str);
 	if (ret == 0)
 	{
